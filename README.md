@@ -45,4 +45,4 @@
    </a>
  </div>
   
- ![Snake animation](https://github.com/carlos-aldrim)
+ ![Snake animation](https://github.com/carlos-aldrim/carlos-aldrim/blob/output/github-contribution-grid-snake.svg)
