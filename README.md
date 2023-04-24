@@ -1,8 +1,8 @@
 ### Olá! Eu sou Carlos Aldrim 👋
 
 <div align="center" style="display:flex;flex-direction:row;">
-  <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlos-aldrim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-aldrim&layout=compact&langs_count=16&theme=react"/>
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlos-aldrim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-aldrim&layout=compact&langs_count=16&theme=react"/>
 </div>
 
 ## Tecnologias e Ferramentas🛠️
