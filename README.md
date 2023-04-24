@@ -1,7 +1,6 @@
 ### Olá! Eu sou Carlos Aldrim 👋
 
-<div>
-  <a href="https://beacons.io/carlos-aldrim">
+<div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=carlos-aldrim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-aldrim&layout=compact&langs_count=16&theme=react"/>
 </div>
